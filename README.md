@@ -23,6 +23,10 @@ Instruções para Configurar o Ambiente de Desenvolvimento.
 
  Execute os scripts SQL fornecidos na pasta database-scripts para criar a tabela Tarefas e os procedimentos armazenados.
 
+ caso queria acessar a documentação e verificar a estrutura apenas verifique o link data-base-docs.md
+
+ [Documentação do Banco de Dados](database-docs.md)
+
  5- E por fim configure o Arquivo .env utilizando o modelo .envexemple fixado na pasta raiz do projeto:
 
  * basta renomear o exemple do arquivo e usar a estrutura ja fixada com suas configurações do seu banco de dados.
