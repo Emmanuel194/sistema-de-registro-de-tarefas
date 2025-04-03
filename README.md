@@ -33,7 +33,7 @@ Instruções para Configurar o Ambiente de Desenvolvimento.
 
 # Descrição dos Endpoints da API:
 
-Para a disponibilização dos Endpoints, disponibilizei um workdspace no posteman onde você pode copiar esse link e colar em um navegador e vai ter acessos as API ja configuradas para teste.
+Para a disponibilização dos Endpoints, Criei um WORKSPACE no Postman onde você pode copiar esse link e colar em um navegador e vai ter acessos as API ja configuradas para teste.
 
 `` https://app.getpostman.com/join-team?invite_code=f9b5fb38b6957f33bb933d824d009e94a63b90f05cca5e7b6dcdf0cfec023718&target_code=f4a52e8e41bb182e836ff3a932dd01d5 ``
 
@@ -73,4 +73,8 @@ API Para Listar Relatorios de tarefas concluídas e pendentes:
 Método: GET
 URL: `` http://127.0.0.1:5000/tarefas/relatorios ``
 
+# Por fim, o Sistema de Registro de Tarefas foi desenvolvido para atender os requisitos,  incluindo:
 
+* A funcionalidade de adicionar, listar, alterar e deletar tarefas por meio de endpoints.
+
+* A geração de relatórios detalhados, permitindo a visualização das tarefas concluídas e pendentes, organizadas por status.
