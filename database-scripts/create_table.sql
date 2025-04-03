@@ -1,0 +1,7 @@
+CREATE TABLE Tarefas (
+    TarefaID INT PRIMARY KEY IDENTITY(1,1),
+    Descricao NVARCHAR(255) NOT NULL,
+    Status NVARCHAR(50) NOT NULL,
+    DataCriacao DATETIME DEFAULT GETDATE(),
+    DataConclusao DATETIME NULL
+);
