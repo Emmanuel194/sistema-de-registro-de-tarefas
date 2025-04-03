@@ -5,7 +5,7 @@ Instruções para Configurar o Ambiente de Desenvolvimento.
  1- Clone o Repositório utilizando o comando : 
 
  `` git clone https://github.com/Emmanuel194/sistema-de-registro-de-tarefas.git ``
- Após clonar o repositório entre no direito com comando abaixo:
+ Após clonar o repositório entre no diretório com comando abaixo:
  
   `` cd sistema-registro-tarefas ``
 
