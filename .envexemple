@@ -1,0 +1,4 @@
+DRIVER=SQL Server
+SERVER=
+DATABASE=Sistema de Registro de Tarefas
+Trusted_Connection=yes
